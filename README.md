@@ -6,6 +6,8 @@
 
 This application has been developed for Huawei interview.
 
+📥 <b>[Download Apk](https://github.com/ahmetgezici/HuaweiLeagueManager/releases/download/1.0/HuaweiLeagueManager.apk)
+
 ## 🔧 Architecture && Using Library
 
 [![Platform](https://img.shields.io/badge/MVVM-7C616C.svg)](https://developer.android.com/jetpack/guide)
