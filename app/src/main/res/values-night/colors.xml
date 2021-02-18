@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="status">#2F2F2F</color>
+
+    <color name="action">#2F2F2F</color>
+    <color name="action_secondary">@color/purple_200</color>
+
+    <color name="background_primary">#121212</color>
+    <color name="background_secondary">#121212</color>
+    <color name="background_tertiary">@color/white</color>
+
+    <color name="button_color">@color/purple_200</color>
+
+    <color name="extendedfab_color">@color/purple_200</color>
+
+    <color name="loading_color">@color/purple_200</color>
+
+    <color name="setting_color">#33FFFFFF</color>
+
+    <color name="menu_item_color">@color/purple_200</color>
+
+    <color name="fixture_item_color">@color/purple_200</color>
+    <color name="fixture_text_color">#C7C7C7</color>
+    <color name="fixture_round_color">#474747</color>
+    <color name="fixture_round_title_color">@color/purple_200</color>
+    <color name="fixture_fab_color">@color/teal_200</color>
+
+</resources>

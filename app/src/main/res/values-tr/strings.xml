@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Huawei League Manager</string>
+
+    <!--Home-->
+    <string name="show_team">TAKIMLARI GÖRÜNTÜLE</string>
+    <string name="create_fixture">FİKSTÜR OLUŞTUR</string>
+
+    <!--Teams-->
+    <string name="teams_title">TAKIMLAR</string>
+    <string name="teams_loading">Yükleniyor</string>
+    <string name="teams_create_fixture">FİKSTÜR OLUŞTUR</string>
+
+    <!--CreateFixture-->
+    <string name="fixture_title">FİKSTÜRLER</string>
+    <string name="fixture_loading">Yükleniyor</string>
+    <string name="fixture_no_data">Lütfen Fikstür\nOluşturun!</string>
+    <string name="fixture_delete_title">Fikstürler Siliniyor</string>
+    <string name="fixture_delete_message">Tüm fikstürleri silmek istediğinize emin misiniz?</string>
+    <string name="fixture">Fikstür</string>
+    <string name="fixture_round">HAFTA</string>
+    <string name="fixture_half">DEVRE</string>
+
+    <!--Fixture-->
+    <string name="fixture_go_top">BAŞA DÖN</string>
+    <string name="fixture_go_end">SONA GİT</string>
+
+    <!--ItemFixture-->
+    <string name="fixture_first_half">1. Devre</string>
+    <string name="fixture_second_half">2. Devre</string>
+
+    <!--Dialog-->
+    <string name="dialog_theme">Tema</string>
+    <string name="dialog_theme_dark">Koyu</string>
+    <string name="dialog_theme_light">Açık</string>
+    <string name="dialog_language">Dil</string>
+
+    <!--Error-->
+    <string name="error_title">Hata</string>
+    <string name="error_message">Bir hata oluştu. Lütfen daha sonra tekrar deneyiniz!</string>
+    <string name="error_ok">Tamam</string>
+    <string name="error_cancel">Vazgeç</string>
+
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_secondary"
+    android:orientation="vertical"
+    android:translationZ="100dp"
+    tools:context=".view.FixtureFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center_vertical"
+            android:layout_marginStart="20dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="30dp"
+            app:cardElevation="0dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_left_arrow"
+                app:tint="@color/action_secondary" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/fixtureHalfTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="21dp"
+            android:layout_marginBottom="21dp"
+            android:fontFamily="@font/gilroy_extrabold"
+            android:text="-------"
+            android:textAlignment="center"
+            android:textColor="@color/action_secondary"
+            android:textSize="18sp" />
+
+    </FrameLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/fixturePager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                    android:id="@+id/goTop"
+                    android:layout_width="140dp"
+                    android:layout_height="40dp"
+                    android:layout_marginStart="15dp"
+                    android:fontFamily="@font/gilroy_bold"
+                    android:gravity="center"
+                    android:paddingTop="12dp"
+                    android:text="@string/fixture_go_top"
+                    android:textAlignment="center"
+                    android:textColor="@color/background_secondary"
+                    android:textSize="13sp"
+                    android:theme="@style/Theme.MaterialComponents"
+                    android:visibility="gone"
+                    app:backgroundTint="@color/fixture_fab_color"
+                    app:elevation="0dp"
+                    app:icon="@drawable/ic_left_arrow"
+                    app:iconPadding="15dp"
+                    app:iconSize="18dp"
+                    app:iconTint="@color/background_secondary" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+                    android:id="@+id/goEnd"
+                    android:layout_width="140dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="15dp"
+                    android:fontFamily="@font/gilroy_bold"
+                    android:gravity="center"
+                    android:paddingStart="0dp"
+                    android:paddingTop="12dp"
+                    android:paddingEnd="-18dp"
+                    android:text="@string/fixture_go_end"
+                    android:textAlignment="center"
+                    android:textColor="@color/background_secondary"
+                    android:textSize="13sp"
+                    android:theme="@style/Theme.MaterialComponents"
+                    app:backgroundTint="@color/fixture_fab_color"
+                    app:elevation="0dp"
+                    app:icon="@drawable/ic_right_arrow"
+                    app:iconGravity="textEnd"
+                    app:iconPadding="15dp"
+                    app:iconSize="18dp"
+                    app:iconTint="@color/background_secondary" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

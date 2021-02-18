@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Huawei League Manager</string>
+
+    <!--Home-->
+    <string name="show_team">SHOW TEAMS</string>
+    <string name="create_fixture">CREATE FIXTURE</string>
+
+    <!--Teams-->
+    <string name="teams_title">TEAMS</string>
+    <string name="teams_loading">Loading</string>
+    <string name="teams_create_fixture">CREATE FIXTURE</string>
+
+    <!--CreateFixture-->
+    <string name="fixture_title">FIXTURES</string>
+    <string name="fixture_loading">Loading</string>
+    <string name="fixture_no_data">Please Create\nFixture!</string>
+    <string name="fixture_delete_title">Fixtures Deleting</string>
+    <string name="fixture_delete_message">Are you sure you want to delete all fixtures?</string>
+    <string name="fixture">Fixture</string>
+
+    <!--Fixture-->
+    <string name="fixture_go_top">GO TOP</string>
+    <string name="fixture_go_end">GO END</string>
+    <string name="fixture_round">WEEK</string>
+    <string name="fixture_half">HALF</string>
+
+    <!--ItemFixture-->
+    <string name="fixture_first_half">1. Half</string>
+    <string name="fixture_second_half">2. Half</string>
+
+    <!--Dialog-->
+    <string name="dialog_theme">Theme</string>
+    <string name="dialog_theme_dark">Dark</string>
+    <string name="dialog_theme_light">Light</string>
+    <string name="dialog_language">Language</string>
+
+    <!--Error-->
+    <string name="error_title">Error</string>
+    <string name="error_message">Something went wrong. Please try again later!</string>
+    <string name="error_ok">OK</string>
+    <string name="error_cancel">Cancel</string>
+
+</resources>

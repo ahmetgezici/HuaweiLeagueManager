@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="night_color">#121212</color>
+
+    <color name="huawei_red">#CF0A2C</color>
+
+    <color name="status">#A80320</color>
+
+    <color name="action">@color/huawei_red</color>
+    <color name="action_secondary">@color/white</color>
+
+    <color name="background_primary">@color/huawei_red</color>
+    <color name="background_secondary">@color/white</color>
+    <color name="background_tertiary">@color/huawei_red</color>
+
+    <color name="button_color">@color/huawei_red</color>
+
+    <color name="extendedfab_color">@color/white</color>
+
+    <color name="loading_color">@color/huawei_red</color>
+
+    <color name="setting_color">#8F081E</color>
+
+    <color name="menu_item_color">@color/white</color>
+
+    <color name="fixture_item_color">#9C0820</color>
+    <color name="fixture_text_color">@color/night_color</color>
+    <color name="fixture_round_color">@color/huawei_red</color>
+    <color name="fixture_round_title_color">#232527</color>
+    <color name="fixture_fab_color">#214F81</color>
+
+</resources>
