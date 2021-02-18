@@ -45,17 +45,17 @@ This application has been developed for Huawei interview.
 
 ### 🔠 Multi Language
 
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode-Turkish.png?raw=true" width=40% /> <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width=40% />
+<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode-Turkish.png?raw=true" width=30% /> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width=30% />
 
 ### ⚫ Dark Mode
 
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-DarkMode.png?raw=true" width=40%/> <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-DarkMode.png?raw=true" width=40%/>
+<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-DarkMode.png?raw=true" width=30%/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-DarkMode.png?raw=true" width=30%/>
 <br><br>
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/CreateFixturePage-DarkMode.png?raw=true" width=40%/> <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/FixturePage-DarkMode.png?raw=true" width=40%/>
+<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/CreateFixturePage-DarkMode.png?raw=true" width=30%/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/FixturePage-DarkMode.png?raw=true" width=30%/>
 <br><br>
 
 ### ⚪ Light Mode
 
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width=40%/> <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-LightMode.png?raw=true" width=40%/>
+<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width=30%/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-LightMode.png?raw=true" width=30%/>
 <br><br>
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/CreateFixturePage-LightMode.png?raw=true" width=40%/> <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/FixturePage-LightMode.png?raw=true" width=40%/>
+<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/CreateFixturePage-LightMode.png?raw=true" width=30%/> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/FixturePage-LightMode.png?raw=true" width=30%/>
