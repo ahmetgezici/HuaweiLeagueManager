@@ -47,9 +47,8 @@ This application has been developed for Huawei interview.
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png" width="25%"/>
 
----
 ### ⚫ Dark Mode
-
+<br>
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-DarkMode.png" width="25%"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-DarkMode.png" width="25%"/>
@@ -58,9 +57,8 @@ This application has been developed for Huawei interview.
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/FixturePage-DarkMode.png" width="25%"/>
 
----
 ### ⚪ Light Mode
-
+<br>
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png" width="25%"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/TeamsPage-LightMode.png" width="25%"/>
