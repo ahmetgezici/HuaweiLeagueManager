@@ -45,11 +45,14 @@ This application has been developed for Huawei interview.
 
 ### 🔠 Multi Language
 
-
-<br>
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode-Turkish.png?raw=true" width="200px"/>
-<img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width="200px"/>
-<br><br>
+<div class="row" style="box-sizing: border-box;">
+  <div class="column" style="float: left; width: 33.33%; padding: 5px; box-sizing: border-box;">
+    <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode-Turkish.png?raw=true" alt="Snow" style="width:100%">
+  </div>
+  <div class="column" style="float: left; width: 33.33%; padding: 5px; box-sizing: border-box;">
+    <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" alt="Forest" style="width:100%">
+  </div>
+</div>
 
 ### ⚫ Dark Mode
 <br>
