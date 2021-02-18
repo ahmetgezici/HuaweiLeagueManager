@@ -41,11 +41,10 @@ This application has been developed for Huawei interview.
 
 ## 📱 Screenshots
 
-<br>
-
 ### 🔠 Multi Language
 
 <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode-Turkish.png?raw=true" width=30% /> &nbsp;&nbsp;&nbsp; <img src="https://github.com/ahmetgezici/HuaweiLeagueManager/blob/master/Screenshots/HomePage-LightMode.png?raw=true" width=30% />
+<br><br>
 
 ---
 ### ⚫ Dark Mode
